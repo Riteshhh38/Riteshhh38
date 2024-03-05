@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riteshh Chougule</h1>
 <h3 align="center">App developer from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshhh38" alt="riteshhh38" /></a> </p>
 
 - 🔭 I’m currently working on **Hospitality**
 
@@ -14,6 +13,9 @@
 - 📫 How to reach me **riteshchougule3838@gmail.com**
 
 - ⚡ Fun fact **Copy-and-Paste was programmed by programmers for programmers actually😅**
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riteshhh38" alt="riteshhh38" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
