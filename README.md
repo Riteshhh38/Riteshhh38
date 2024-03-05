@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Hospitality**
+- 🔭 I’m currently working on **HospitalityApp**
 
 - 🌱 I’m currently learning **Kotlin**
 
